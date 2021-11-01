@@ -5,3 +5,8 @@ eureka:
     serviceUrl:
         defaultZone: http://localhost:8766/eureka/
         
+        
+        
+app:
+  name: aditya maurya is a good 
+        
